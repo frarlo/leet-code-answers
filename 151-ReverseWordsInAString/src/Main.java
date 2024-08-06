@@ -33,7 +33,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("*** Solution for LeetCode problem 14 - Longest Common Prefix *** \n");
+        System.out.println("*** Solution for LeetCode problem 151 - Reverse Words in a String *** \n");
 
         String s1 = "the sky is blue";
         String s2 = "    hello world  ";
